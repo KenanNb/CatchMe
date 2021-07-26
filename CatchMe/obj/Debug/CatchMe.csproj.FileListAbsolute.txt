@@ -1,0 +1,10 @@
+C:\Users\Kənan\source\repos\CatchMe\CatchMe\bin\Debug\CatchMe.exe.config
+C:\Users\Kənan\source\repos\CatchMe\CatchMe\bin\Debug\CatchMe.exe
+C:\Users\Kənan\source\repos\CatchMe\CatchMe\bin\Debug\CatchMe.pdb
+C:\Users\Kənan\source\repos\CatchMe\CatchMe\obj\Debug\CatchMe.csproj.AssemblyReference.cache
+C:\Users\Kənan\source\repos\CatchMe\CatchMe\obj\Debug\CatchMe.Form1.resources
+C:\Users\Kənan\source\repos\CatchMe\CatchMe\obj\Debug\CatchMe.Properties.Resources.resources
+C:\Users\Kənan\source\repos\CatchMe\CatchMe\obj\Debug\CatchMe.csproj.GenerateResource.cache
+C:\Users\Kənan\source\repos\CatchMe\CatchMe\obj\Debug\CatchMe.csproj.CoreCompileInputs.cache
+C:\Users\Kənan\source\repos\CatchMe\CatchMe\obj\Debug\CatchMe.exe
+C:\Users\Kənan\source\repos\CatchMe\CatchMe\obj\Debug\CatchMe.pdb
